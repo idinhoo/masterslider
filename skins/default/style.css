@@ -41,12 +41,13 @@
 	font-weight: normal;
 	padding: 23px 25px;
 	background: rgba(0, 0, 0, 0.75);
+  border-radius: 3px;
 }
 
 
 .ms-layer.sldbut1 a {
 	font-family: 'Droid Serif', serif;
-	background-color: rgba(215, 2, 4, 0.8);
+	background-color: #ff6e41;
 	padding: 13px 40px;
 	font-size: 18px;
 	font-weight: normal;
@@ -54,6 +55,7 @@
 	text-align: center;
 	color: #fff;
 	transition: all 0.3s ease;
+  border-radius: 3px;
 }
 .ms-layer.sldbut1 a:hover {
 	background-color: #fff;
@@ -249,6 +251,7 @@
     width: 48%;
     height: 24%;
     background: rgba(255, 255, 255, 0.6);
+    border-radius: 3px;
 }
 
 .slide-video .hps-hd {
